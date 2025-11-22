@@ -21,7 +21,7 @@ export default function Navbar() {
   const links = (
     <div className="flex gap-3">
       <NavLink to="/">Home</NavLink>
-      <NavLink to="/product">Product</NavLink>
+      <NavLink to="/PMSTasks">PMSTasks</NavLink>
       <NavLink to="/dashboard">Dashboard</NavLink>
     </div>
   );
